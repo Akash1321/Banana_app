@@ -6,5 +6,5 @@
  2. Adding an event listener
  3. storing the url 
  4. fetch url to use api for translated text
- 5 Handle error
+ 5. Handle error
  
